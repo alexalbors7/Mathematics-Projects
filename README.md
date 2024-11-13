@@ -8,8 +8,8 @@ This not an up to date list.
   + Washington Directed Reading Program: High-Dimensional Random Walks: Walking on Matroids
   + Washington Directed Reading Program: Mathematics for Climate
  
-* Poster
- + Poster for Warwick Research Internship on efficient Reinforcement Learning using Graph SSL methods. 
+* Posters
+  + Poster for Warwick Research Internship on efficient Reinforcement Learning using Graph SSL methods. 
 
 
 
