@@ -9,7 +9,8 @@ This not an up to date list.
   + Washington Directed Reading Program: Mathematics for Climate
  
 * Posters
-  + Poster for Warwick Research Internship on efficient Reinforcement Learning using Graph SSL methods. 
+  + Poster for Warwick Research Internship on efficient Reinforcement Learning using Graph SSL methods.
+  + Poster for Washington Experimental Mathematics Lab on low-rank Gaussian Process regression using RPCholesky and the Nystroem Approximation. 
 
 
 
